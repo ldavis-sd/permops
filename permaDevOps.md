@@ -33,7 +33,8 @@ After the 2016 election I felt that I needed to push myself to start thinking co
 * The Idea of 'high leverage activities'. This is phrased in another way within the community, but I found how it was described in Edmond Lau's "The Effective Engineer" was best. You want to be spending your 
 
 ## Examples in Practice
-
+* Food forest
+* Everything is a series of 
 
 ## Applied to DevOps
 
@@ -45,16 +46,45 @@ Alignment of Goals
 As an Site Reliability Engineer, my goal should be to design and implement systems that take care of themselves, that prioritize smart design over toil, and minimizes the amount of human intervention required to keep things running smoothly. 
 
 
+## Important quotes from my notes
+
+* "Design beyond your borders. Design beyond your generation
+* EROEI: Energy Return on Energy Invested
+* We need to be design intensive, NOT labor intensive
+* The problem you're facing can be a solution to something else
+    * see: duck poop
+* P.A.T.O: Protracted and Thoughtful Observation
+* You won't always be around -- plan your legacy. 
+  * During community organizing training, I heard this concept described as 'Deep Self-Interest'. 
+* Planning for peak events
+  * drought, traffic spike, loss of an entire data center
+* Plan for your bio-region
+  * Your problems and the resources at hand to solve them a re very different from someone in the rainforest or Central Asian steppe.
+* form guilds and collaborate with those doing similar work as you
+
+* Invisible structures
+  * physical building, but also the social relations
+  * 
 
 
 
-## Resources
-The Permaculture Podcast by Scott Mann
+* Refuse to participate in the lies we've been told
+* Scale of permanece
+    * spectrum from 'easy to change' through 'difficult or impossible to change'
+        * ex: The number of ducks you keep vs the regional climate
+        * ex: Changing a background color vs 'how you authenticate users on your platform'
+* Permaculture Trinity
+    1. Earth Care
+        * increase positive impact
+        * Go beyond sustainable
+    2. People Care
+        * caring for your self and local communities
+        * equitable distribution of resources
+    3. Fair Share
+        * Mutually beneficial relationships (e.g. contributing to open source)
+    4. Future Care
+        * plan for the good of the next several generations 
+            * e.g. your future self, future engineers, and even the company several years from now
 
-
-
-
-
-
-
-On the unexpected usefulness of regenerative design princiin agriculture & e unexpected lessons 
+* Permaculture Principles
+  * There are 13, but only select the ones that are hyper relevant
