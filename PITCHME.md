@@ -106,14 +106,12 @@ http://www.geofflawtononline.com/videos/video/1-why-permaculture/
 ## Further Investigation
 * Category Theory + Site Analysis
 * Investigatng "Permanent Operations"
-  * Wow long-running and fault tolerant can we make our systems, and what are the tools and absractions that will get us there
-  * What is a reasonable goal? When do you see diminishing returns?
+  * What is a reasonable goal? 
+  * When do you see diminishing returns?
 
 ---
 ## Closing
-Creating Enduring and resilient infrastructure will be the product of a team and community designed to endure. These means takiing care of the team, the the communities it's a member of, the broader comapny. 
-
-If we want to create a resilient infrastructure, tthen it must exist on a team where the practices are
+Enduring and resilient infrastructure will be the result of teams and communities designed to endure and be resilient 
 
 ---
 ## Resources
