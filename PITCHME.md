@@ -63,15 +63,16 @@ http://www.geofflawtononline.com/videos/video/1-why-permaculture/
 ---
 ## Ethical Guidelines
 * Meant to limit and guide crude self-interest
-1.  Earth Care
-  <!-- * Increase
-  * SRE work has a much more confined definition of 'world', but the role is sitll to engage in high leverage & well-designed activities -->
-2.  People care
-3. Fair Share
-  <!-- * Sharing the load on the tream -->
-4.  Future Care
-  <!-- * plan for the good of the next several generations 
-    * new coders, future forms of the companies, future users of OSS -->
+* Four Ethical Pillars
+  1.  Earth Care
+    <!-- * Increase
+    * SRE work has a much more confined definition of 'world', but the role is sitll to engage in high leverage & well-designed activities -->
+  2.  People care
+  3. Fair Share
+    <!-- * Sharing the load on the tream -->
+  4.  Future Care
+    <!-- * plan for the good of the next several generations 
+      * new coders, future forms of the companies, future users of OSS -->
 
 ---
 ## 13 Design Principles
@@ -103,9 +104,8 @@ http://www.geofflawtononline.com/videos/video/1-why-permaculture/
 <!-- Conclusion  -->
 ---
 ## Further Investigation
-* Formalizing these thoughts a bit more
-* Have fun applying Category Theory (or trying to) to site analyses. S 
-* Expanding on the idea of "Permanent Operations"
+* Category Theory + Site Analysis
+* Investigatng "Permanent Operations"
   * Wow long-running and fault tolerant can we make our systems, and what are the tools and absractions that will get us there
   * What is a reasonable goal? When do you see diminishing returns?
 
@@ -121,4 +121,4 @@ If we want to create a resilient infrastructure, tthen it must exist on a team w
   http://www.thepermaculturepodcast.com/
 * _Site Reliability Engineering_
   https://landing.google.com/sre/book.html
-* _The Effective Engineer_ by Edmond Lau
+* _Permaculture: A Practical Guide for a Sustainable Future_ by Bill Mollison
