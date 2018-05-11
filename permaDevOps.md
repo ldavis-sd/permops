@@ -45,7 +45,9 @@ After the 2016 election I felt that I needed to push myself to start thinking co
 Alignment of Goals
 As an Site Reliability Engineer, my goal should be to design and implement systems that take care of themselves, that prioritize smart design over toil, and minimizes the amount of human intervention required to keep things running smoothly. 
 
-
+#----------------------------------------
+#----------------------------------------
+#----------------------------------------
 ## Important quotes from my notes
 
 * "Design beyond your borders. Design beyond your generation
@@ -73,7 +75,8 @@ As an Site Reliability Engineer, my goal should be to design and implement syste
     * spectrum from 'easy to change' through 'difficult or impossible to change'
         * ex: The number of ducks you keep vs the regional climate
         * ex: Changing a background color vs 'how you authenticate users on your platform'
-* Permaculture Trinity
+* Permaculture Ethics
+  * meant to limit and guide crass self-interest
     1. Earth Care
         * increase positive impact
         * Go beyond sustainable
