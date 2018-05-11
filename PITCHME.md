@@ -5,8 +5,8 @@
 ---
 ## Agenda
 1. What *are* these practices?
-2. What are the commonalities?
-4. Resources
+2. How can Permaculture guide Tech Infrastructure Management?
+3. Resources
 
 ---
 ## What are you talking about?
@@ -14,30 +14,29 @@
 * Permaculture
 
 ---
-## Site Reliability Engineering
-* An evolution of 'sysadmin' or 'devops' positions
-* Design and implement computing infrastrucutre, with an eye towards fault tolerance and minimizing human intervention for routine work.  
-* Increased focus on programming and automating with code
+## Tech Infrastructure
+* For me, it's everything between developer workstations and
+* SREs design and implement computing infrastrucutre, 
+  * prioritize fault tolerance and minimize human intervention
 
 ---
 ## Permaculture
-* Originally a portmanteau of 'Permanent Agriculture', but later retconned to 'Permanent Culture' to highlight the importance of human systems
+* Permanent + Culture
 * Invented by Bill Mollison and Geoff Lawton, a pair of ecologists from Austrailia
 
 ---
 ## Discovering Permaculture
 * Answer to the frustration of the 2016 political cycle
-* Pushed myself  After the 2016 election, I felt that I wanted to push myself to create a constructive and positive vision for the future
-* Started volunteering more, and eventually stumbled upon the Permaculture community online
-* The more I looked into it, the more I liked 
+* I wanted to push myself to create a constructive and positive vision for the future
+* Eventually stumbled upon the Permaculture community online
 
 ---
 ## What did I like?
-* Systems Thinking
+* Fosters Systems Thinking
 * Humility before complexity
 * The belief that complexity is tractable
 * Value action, but not for its own sake
-* Culture of learning and vanguardism. 
+* Culture of learning and vanguardism
 <!-- * When you value good design and decreasing toil, that pushes you to collaborate with others, and that encourages yourself and others to push the state of the art forward.  -->
 
 ---
@@ -64,58 +63,55 @@ http://www.geofflawtononline.com/videos/video/1-why-permaculture/
 ---
 ## Ethical Guidelines
 * Meant to limit and guide crude self-interest
-* Earth Care
-  * Increase
-  * SRE work has a much more confined definition of 'world', but the role is sitll to engage in high leverage & well-designed activities
-* People care
-  * If
-* Fair Share
-  * Sharing the load on the tream
-* Future Care
-  * plan for the good of the next several generations 
-    * new coders, future forms of the companies, future users of OSS
+1.  Earth Care
+  <!-- * Increase
+  * SRE work has a much more confined definition of 'world', but the role is sitll to engage in high leverage & well-designed activities -->
+2.  People care
+3. Fair Share
+  <!-- * Sharing the load on the tream -->
+4.  Future Care
+  <!-- * plan for the good of the next several generations 
+    * new coders, future forms of the companies, future users of OSS -->
 
 ---
 ## 13 Design Principles
 * Apply self-regulation and accept feedback
-  * If something goes wrong, change it
+  <!-- * If something goes wrong, change it -->
 
 * Produce little to no waste
-  * i.e. avoid creating systems 
+  <!-- * i.e. avoid creating systems 
   * Things like Hackweeks or "20% time" are rarely wastes of time
   * reduce unused capacity
+  * use efficient abstractions -->
 
 * Integrate rather than segregate
-  * one codebase, manage most of our applications on a single cluster with a single interface
+  <!-- * one codebase, manage most of our applications on a single cluster with a single interface
   * Our tools are nearly always integrations of several others
-  * Sharing ideas
+  * Sharing ideas -->
 
 * Catch and store energy
-  * I believe you see this a lot with healthy engineering culture. There's a lot of energy to be found in group curiousity, and direre to learn 
+  <!-- * I believe you see this a lot with healthy engineering culture. There's a lot of energy to be found in group curiousity, and direre to learn  -->
 
 ---
 ## Favorite terms and concepts
-* Swale
+* Zones
+* Swales
 * Hugelkultur
-* Vietnamese Double Vault -- toilet
-
----
-## Important differences
-* Iteration cycle is a lot longer when dealing with the natural world
-* We have analytical and construction tools available to us that enable consistent high-leverage activities
+* Humanure Vietnamese Double Vault -- toilet
+* Invisible vs Visible Infrastructure
 
 <!-- Conclusion  -->
 ---
-## Areas of Investigation
-* Formalizing these thoughts a bit more, in a well sourced manner
-* Seeing how the Functional Programming paradigm applies to this case. Likewise, Category Theory. 
-* Expanding on the idea of "Permanent Operations" -- how long-running and fault tolerant can we make our systems, and what are the tools and absractions that will get us there
+## Further Investigation
+* Formalizing these thoughts a bit more
+* Have fun applying Category Theory (or trying to) to site analyses. S 
+* Expanding on the idea of "Permanent Operations"
+  * Wow long-running and fault tolerant can we make our systems, and what are the tools and absractions that will get us there
   * What is a reasonable goal? When do you see diminishing returns?
-* See how else this could be applied to our situation with it feeling like too much of a stretch.
 
 ---
 ## Closing
-* Enduring and resilient infrastructure will be the product of a team and community designed to endure. These means takiing care of the team, the the communities it's a member of, the broader comapny. 
+Creating Enduring and resilient infrastructure will be the product of a team and community designed to endure. These means takiing care of the team, the the communities it's a member of, the broader comapny. 
 
 If we want to create a resilient infrastructure, tthen it must exist on a team where the practices are
 
